@@ -19,5 +19,7 @@ h4ck3r@chesscheat: help
 ```
 
 # :raised_hands: Thanks to
-<i>https://nextchessmove.com/
-https://python-chess.readthedocs.io</i>
+<i>
+<a href="https://nextchessmove.com/">Next Chess Move</a><br>
+<a href="https://python-chess.readthedocs.io">python-chess</a>
+</i>
